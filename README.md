@@ -8,14 +8,20 @@ Este repositorio contiene los logos oficiales del grupo de investigación [**COD
 
 | Carpeta | Entidad |
 |---|---|
-| `CODEC/` | Grupo CODEC — Ciencias Cognitivas y del Comportamiento |
-| `DiCoMH/` | Semillero DiCoMH — Diferencias Cognitivas entre Mujeres y Hombres |
-| `EvoCo/` | Laboratorio EvoCo — Evolución y Comportamiento Humano |
-| `LabPsiExp/` | Laboratorio LabPsiExp — Psicología Experimental |
-| `MetaCiencia/` | Semillero MetaCiencia — Ciencia, Reproducibilidad y Transparencia |
+| `CODEC/` | Grupo CODEC: Ciencias Cognitivas y del Comportamiento |
+| `DiCoMH/` | Semillero DiCoMH: Diferencias Cognitivas entre Mujeres y Hombres |
+| `EvoCo/` | EvoCo: Laboratorio de Evolución y Comportamiento Humano |
+| `LabPsiExp/` | LabPsiExp: Laboratorio de Psicología Experimental |
+| `MetaCiencia/` | Semillero MetaCiencia: Ciencia, Reproducibilidad y Transparencia |
 | `NeuroGroup/` | Semillero NeuroGroup |
-| `PsicoEvo/` | Semillero PsicoEvo — Psicología Evolutiva |
-| `SexCog/` | Semillero SexCog — Sexualidad y Afectividad Humana |
+| `PsicoEvo/` | Semillero PsicoEvo: Psicología Evolutiva |
+| `SexCog/` | Semillero SexCog: Sexualidad y Afectividad Humana |
+
+---
+
+### Vista previa
+
+![Vista previa de todos los logos sobre fondos claro y oscuro](preview.png)
 
 ---
 
@@ -24,16 +30,16 @@ Este repositorio contiene los logos oficiales del grupo de investigación [**COD
 Cada carpeta contiene cuatro archivos:
 
 ```
-NombreLogo_claro.svg   ← versión clara (para fondos oscuros), vector
-NombreLogo_claro.png   ← versión clara, raster
-NombreLogo_oscuro.svg  ← versión oscura (para fondos claros), vector
-NombreLogo_oscuro.png  ← versión oscura, raster
+NombreLogo_sobre_oscuro.svg  ← para usar sobre fondos oscuros, vector
+NombreLogo_sobre_oscuro.png  ← para usar sobre fondos oscuros, raster
+NombreLogo_sobre_claro.svg   ← para usar sobre fondos claros, vector
+NombreLogo_sobre_claro.png   ← para usar sobre fondos claros, raster
 ```
 
-- **SVG** — formato vectorial, recomendado para uso web, presentaciones y materiales impresos a cualquier escala.
-- **PNG** — formato raster con fondo transparente, para usos que no admiten SVG.
-- **`_claro`** — versión con colores claros/blancos, para colocar sobre fondos oscuros.
-- **`_oscuro`** — versión con colores oscuros, para colocar sobre fondos claros o blancos.
+- **`_sobre_claro`** — versión adaptada para usar sobre fondos claros.
+- **`_sobre_oscuro`** — versión adaptada para usar sobre fondos oscuros.
+- **SVG** — formato vectorial.
+- **PNG** — imagen con fondo transparente.
 
 ---
 
