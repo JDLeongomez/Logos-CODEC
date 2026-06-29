@@ -1,13 +1,40 @@
-## Logos grupo de investigación [***CODEC**: Ciencias Cognitivas y del Comportamiento*](https://investigaciones.unbosque.edu.co/codec)
+## Logos — [*CODEC: Ciencias Cognitivas y del Comportamiento*](https://investigaciones.unbosque.edu.co/codec)
 
-Este repositorio contiene los logos de los laboratorios y semilleros que componen el grupo de investigación [***CODEC**: Ciencias Cognitivas y del Comportamiento*](https://investigaciones.unbosque.edu.co/codec), de la Facultad de Psicología de la Universidad El Bosque en Bogotá, Colombia.
+Este repositorio contiene los logos oficiales del grupo de investigación [**CODEC**](https://investigaciones.unbosque.edu.co/codec) y de sus laboratorios y semilleros, pertenecientes a la Facultad de Psicología de la Universidad El Bosque (Bogotá, Colombia).
 
-![Estructura del grupo de investigación CODEC](https://raw.githubusercontent.com/JDLeongomez/Logos-CODEC/refs/heads/master/PNG/Poster%20Estructura%20CODEC.png)
-Los logos están disponibles:
+---
 
-* Como imágenes PNG en la carpeta llamada [PNG](https://github.com/JDLeongomez/Logos-CODEC/tree/master/PNG) en diferentes resoluciones
-* Como vectores en la carpeta [SVG masters](https://github.com/JDLeongomez/Logos-CODEC/tree/master/SVG%20masters).
+### Entidades incluidas
 
-![Logo CODEC](https://raw.githubusercontent.com/JDLeongomez/Logos-CODEC/refs/heads/master/PNG/Mini_100x100/Logo_CODEC_mini.png)   ![Logo EvoCo](https://raw.githubusercontent.com/JDLeongomez/Logos-CODEC/refs/heads/master/PNG/Mini_100x100/Logo_EvoCo_mini.png)   ![Logo LabPsiExp](https://raw.githubusercontent.com/JDLeongomez/Logos-CODEC/refs/heads/master/PNG/Mini_100x100/Logo_LabPsiExp_mini.png)   ![Logo PsicoEvo](https://raw.githubusercontent.com/JDLeongomez/Logos-CODEC/refs/heads/master/PNG/Mini_100x100/Logo_PsicoEvo_mini.png)   ![Logo SEXCOG](https://raw.githubusercontent.com/JDLeongomez/Logos-CODEC/refs/heads/master/PNG/Mini_100x100/Logo_SEXCOG_mini.png)   ![Logo NEUROGROUP](https://raw.githubusercontent.com/JDLeongomez/Logos-CODEC/refs/heads/master/PNG/Mini_100x100/Logo_NEUROGROUP_mini.png)   ![Logo MetaCiencia](https://raw.githubusercontent.com/JDLeongomez/Logos-CODEC/refs/heads/master/PNG/Mini_100x100/Logo_MetaCiencia_mini.png)
+| Carpeta | Entidad |
+|---|---|
+| `CODEC/` | Grupo CODEC — Ciencias Cognitivas y del Comportamiento |
+| `DiCoMH/` | Semillero DiCoMH — Diferencias Cognitivas entre Mujeres y Hombres |
+| `EvoCo/` | Laboratorio EvoCo — Evolución y Comportamiento Humano |
+| `LabPsiExp/` | Laboratorio LabPsiExp — Psicología Experimental |
+| `MetaCiencia/` | Semillero MetaCiencia — Ciencia, Reproducibilidad y Transparencia |
+| `NeuroGroup/` | Semillero NeuroGroup |
+| `PsicoEvo/` | Semillero PsicoEvo — Psicología Evolutiva |
+| `SexCog/` | Semillero SexCog — Sexualidad y Afectividad Humana |
 
-<sup><sub>Logos diseñados y creados por [Juan David Leongómez](https://github.com/JDLeongomez)</sub></sup>
+---
+
+### Estructura y convención de nombres
+
+Cada carpeta contiene cuatro archivos:
+
+```
+NombreLogo_claro.svg   ← versión clara (para fondos oscuros), vector
+NombreLogo_claro.png   ← versión clara, raster
+NombreLogo_oscuro.svg  ← versión oscura (para fondos claros), vector
+NombreLogo_oscuro.png  ← versión oscura, raster
+```
+
+- **SVG** — formato vectorial, recomendado para uso web, presentaciones y materiales impresos a cualquier escala.
+- **PNG** — formato raster con fondo transparente, para usos que no admiten SVG.
+- **`_claro`** — versión con colores claros/blancos, para colocar sobre fondos oscuros.
+- **`_oscuro`** — versión con colores oscuros, para colocar sobre fondos claros o blancos.
+
+---
+
+<sup>Logos diseñados y creados por [Juan David Leongómez](https://github.com/JDLeongomez)</sup>
