@@ -8,10 +8,7 @@
    version="1.1"
    id="svg1"
    inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
-   sodipodi:docname="LabPsiExp_sobre_oscuro.svg"
-   inkscape:export-filename="LabPsiExp_sobre_oscuro.png"
-   inkscape:export-xdpi="300"
-   inkscape:export-ydpi="300"
+   sodipodi:docname="LabPsiExp_oscuro.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -26,9 +23,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
-     inkscape:zoom="0.74029882"
-     inkscape:cx="83.074562"
-     inkscape:cy="93.881009"
+     inkscape:zoom="2.0938813"
+     inkscape:cx="175.98897"
+     inkscape:cy="164.04942"
      inkscape:window-width="1900"
      inkscape:window-height="1030"
      inkscape:window-x="0"
@@ -3787,6 +3784,10 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(-126.15211,-123.55855)">
+    <path
+       id="rect298-3"
+       style="stroke-width:0.24036;stroke-linecap:square"
+       d="m 126.30202,117.66889 h 49.70018 c 2.57485,0 4.64773,2.07289 4.64773,4.64773 v 72.57603 c 0,2.57484 -2.07288,4.64773 -4.64773,4.64773 h -49.70018 c -2.57484,0 -4.64773,-2.07289 -4.64773,-4.64773 v -72.57603 c 0,-2.57484 2.07289,-4.64773 4.64773,-4.64773 z" />
     <g
        transform="matrix(0.3804318,0,0,0.3804318,353.69579,296.7972)"
        id="g174436-7-7">
@@ -4054,7 +4055,8 @@
                  fill="none"
                  stroke="#0b3312"
                  stroke-miterlimit="10"
-                 id="path174292-4-2" />
+                 id="path174292-4-2"
+                 style="stroke:#ffffff" />
             </g>
             <g
                transform="translate(174.23,191.64)"
@@ -4064,7 +4066,8 @@
                  fill="none"
                  stroke="#0b3312"
                  stroke-miterlimit="10"
-                 id="path174296-2-3" />
+                 id="path174296-2-3"
+                 style="stroke:#ffffff" />
             </g>
           </g>
         </g>

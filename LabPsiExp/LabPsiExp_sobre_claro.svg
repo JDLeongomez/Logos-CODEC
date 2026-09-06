@@ -26,10 +26,10 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
-     inkscape:zoom="0.74029882"
-     inkscape:cx="118.19551"
-     inkscape:cy="145.21163"
-     inkscape:window-width="1900"
+     inkscape:zoom="1.0469407"
+     inkscape:cx="26.267009"
+     inkscape:cy="195.33103"
+     inkscape:window-width="1002"
      inkscape:window-height="1030"
      inkscape:window-x="0"
      inkscape:window-y="0"
@@ -3786,7 +3786,8 @@
                  fill="none"
                  stroke="#0b3312"
                  stroke-miterlimit="10"
-                 id="path174292-5" />
+                 id="path174292-5"
+                 style="stroke:#ffffff" />
             </g>
             <g
                transform="translate(174.23,191.64)"
@@ -3796,7 +3797,8 @@
                  fill="none"
                  stroke="#0b3312"
                  stroke-miterlimit="10"
-                 id="path174296-4" />
+                 id="path174296-4"
+                 style="stroke:#ffffff" />
             </g>
           </g>
         </g>
